@@ -1,0 +1,13 @@
+flowchart LR
+  A([Change requested]) --> B[PMO logs CR-xx]
+  B --> C[PM + BA assess: scope, cost, time, risk, shared people]
+  C --> D{Size of change}
+  D -- up to Rs 2 lakh and 5 days --> E[Project manager decides]
+  D -- up to Rs 5 lakh or 15 days --> F[Sponsor decides]
+  D -- bigger, or regulatory scope --> G[Steering committee decides]
+  E --> H{Approved?}
+  F --> H
+  G --> H
+  H -- Yes --> I[Update baseline budget and plan, backlog, RAID; tell the team]
+  H -- No --> J[Record reason, close CR]
+  I --> K[Dashboard: revised budget and approved CR cost]

@@ -2,6 +2,12 @@
 
 How the PMO runs the portfolio: what every project reports, when, and how status is judged.
 
+## Weekly cycle
+
+![Weekly PMO governance cycle](governance_flow.png)
+
+Source: [`governance_flow.mmd`](governance_flow.mmd)
+
 ## Reporting calendar
 
 | When | What | Who |

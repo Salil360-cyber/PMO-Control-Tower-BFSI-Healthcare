@@ -24,7 +24,23 @@ Sahyog Financial Group (a bank and a health insurer) runs **8 change projects wo
 | P07 Hospital Portal | Re-baseline honestly (mid-September, Rs 49.2 lakh), reject the Rs 9 lakh registry add-on for phase 1, report EVM numbers weekly |
 | Portfolio | RAG must follow the EVM rule; missed updates treated as early warnings; check the resource heatmap before approving new work |
 
+## Dashboards and diagrams
+
+**Portfolio roadmap:** plan vs actual or forecast finish
+
+![Portfolio roadmap](04_powerbi/screenshots/portfolio_roadmap.png)
+
+**Page 1: Portfolio health**
+
 ![Portfolio health](04_powerbi/screenshots/page1_portfolio_health.png)
+
+**Page 2: Delivery control**
+
+![Delivery control](04_powerbi/screenshots/page2_delivery_control.png)
+
+**Weekly PMO governance cycle**
+
+![Governance flow](05_pm_docs/governance_flow.png)
 
 ## What's in this repo
 
@@ -34,8 +50,8 @@ Sahyog Financial Group (a bank and a health insurer) runs **8 change projects wo
 | [`02_excel`](02_excel) | Formula-driven PMO workbook: portfolio dashboard with EVM, watermelon flag, EAC / VAC, resource heatmap |
 | [`03_sql`](03_sql) | PostgreSQL schema, load script, 12 PMO queries and results |
 | [`04_powerbi`](04_powerbi) | 2-page dashboard design, DAX measures, previews |
-| [`05_pm_docs`](05_pm_docs) | PMO governance, portfolio status report, steering committee pack, change control process, lessons learned, fresher vs mid-level skills map |
-| [`scripts`](scripts) | Data generator, Excel builder, dashboard preview |
+| [`05_pm_docs`](05_pm_docs) | PMO governance (with weekly cycle flow), portfolio status report, steering committee pack, change control process (with flow), lessons learned, fresher vs mid-level skills map |
+| [`scripts`](scripts) | Data generator, Excel builder, dashboard preview, roadmap chart |
 | [`BUILD_GUIDE.md`](BUILD_GUIDE.md) | Step-by-step build of the Excel, SQL and Power BI parts |
 
 ## Skills shown

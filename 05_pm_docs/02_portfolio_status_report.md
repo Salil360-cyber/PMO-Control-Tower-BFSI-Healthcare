@@ -12,6 +12,8 @@ Five projects are finished; three are still running and all three are behind. **
 | P07 Hospital Network Empanelment Portal | 81% | 0.83 | 0.81 | Green | **Red** | 49.2 vs 44.5 | **Watermelon**; UAT late |
 | P08 Core Banking Upgrade (Phase 1) | 55% | 0.76 | 0.85 | Amber | **Red** | 354.6 vs 327.0 | **Watermelon**; forecast finish Jan 2028 vs Oct 2027 |
 
+![Portfolio roadmap](../04_powerbi/screenshots/portfolio_roadmap.png)
+
 Finished: P01, P02, P04, P05, P06. Four of five finished 7-14 days late; final costs were within -1.4% to +4.8% of budget.
 
 ## Needs attention

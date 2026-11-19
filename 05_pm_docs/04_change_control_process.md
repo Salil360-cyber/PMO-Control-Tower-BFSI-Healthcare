@@ -1,5 +1,9 @@
 # 4. Change control process
 
+![Change control flow](change_control_flow.png)
+
+Source: [`change_control_flow.mmd`](change_control_flow.mmd)
+
 1. **Raise:** anyone fills a change request: what, why, who asked.
 2. **Log:** PMO gives it an ID (CR-xx) and adds it to the change log.
 3. **Assess:** PM and BA estimate impact on scope, cost, schedule, risk and other projects (shared people).

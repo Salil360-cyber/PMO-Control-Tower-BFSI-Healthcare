@@ -1,0 +1,23 @@
+flowchart LR
+  subgraph PM[Project managers]
+    A[Thursday 17:00: send weekly update<br/>% done, cost, RAG, risks]
+  end
+  subgraph PMO[PMO analyst]
+    B{Update received?}
+    C[Chase PM, log as missing]
+    D[Data checks: cost, % done, RAID owners and dates]
+    E[Calculate SPI, CPI, EVM RAG]
+    F{Reported RAG better than EVM?}
+    G[Flag as watermelon]
+    H[Friday 15:00: portfolio status report]
+  end
+  subgraph SC[Steering committee - monthly]
+    I[Decide on Red projects, CRs over Rs 5 lakh, resource clashes]
+  end
+  A --> B
+  B -- No --> C --> B
+  B -- Yes --> D --> E --> F
+  F -- Yes --> G --> H
+  F -- No --> H
+  H --> I
+  I -- decisions and new baselines --> A
