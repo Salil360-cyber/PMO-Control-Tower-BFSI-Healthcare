@@ -1,0 +1,15 @@
+cr_id,project_id,description,cost_impact_lakh,schedule_impact_days,raised_date,decision,decision_date
+CR-01,P01,Add Hindi and Marathi video agent languages,3.0,7,2027-01-31,Approved,2027-02-05
+CR-02,P02,Move DSA portal upload check after go-live,0.0,-4,2027-04-02,Approved,2027-04-12
+CR-03,P02,Add co-applicant documents to checklist,1.5,6,2027-04-17,Rejected,2027-04-29
+CR-04,P03,Support 3 more TPAs in phase 1,8.0,21,2027-03-17,Approved,2027-04-05
+CR-05,P03,Add pre-authorisation status tracker for hospitals,4.0,14,2027-03-18,Pending,
+CR-06,P04,Add e-mandate for credit cards,5.0,18,2027-03-10,Rejected,2027-03-25
+CR-07,P05,Include trade-based rules in tuning,3.5,15,2027-03-02,Approved,2027-03-22
+CR-08,P06,Add NPA view to branch dashboard,1.0,5,2027-02-01,Approved,2027-02-16
+CR-09,P07,Add bulk upload for hospital documents,4.5,20,2027-02-20,Approved,2027-03-12
+CR-10,P07,Integrate with state health scheme registry,9.0,35,2027-04-23,Pending,
+CR-11,P08,Extra mock migration cycle,12.0,28,2027-02-24,Approved,2027-03-16
+CR-12,P08,Additional vendor team for data cleansing,15.0,0,2027-04-24,Approved,2027-05-10
+CR-13,P08,Move loan module to phase 2,-40.0,-30,2027-02-22,Pending,
+CR-14,P08,Upgrade reporting layer in phase 1,18.0,25,2027-03-15,Rejected,2027-03-31

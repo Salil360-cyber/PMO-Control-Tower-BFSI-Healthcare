@@ -1,0 +1,64 @@
+raid_id,project_id,type,description,probability,impact,owner,raised_date,due_date,status,closed_date
+RAID-001,P01,Risk,Data quality issues may delay testing,5,4,IT lead,2027-01-20,2027-02-09,Closed,2027-02-04
+RAID-002,P01,Risk,Data quality issues may delay testing,4,5,Compliance,2027-03-29,2027-04-08,Closed,2027-04-12
+RAID-003,P01,Action,Confirm UAT dates with business,,,Business SME,2027-03-24,2027-04-12,Closed,2027-04-09
+RAID-004,P01,Issue,Key resource on unplanned leave,,3,Business analyst,2027-01-14,2027-01-21,Closed,2027-01-19
+RAID-005,P01,Action,Confirm UAT dates with business,,,Vendor lead,2027-01-18,2027-01-25,Closed,2027-01-29
+RAID-006,P02,Action,Send revised plan to sponsor,,,Project manager,2027-02-08,2027-03-05,Closed,2027-03-06
+RAID-007,P02,Action,Update RAID owners,,,Business SME,2027-03-09,2027-03-19,Closed,2027-03-17
+RAID-008,P02,Action,Chase vendor for revised timeline,,,Vendor lead,2027-01-24,2027-01-31,Closed,2027-01-31
+RAID-009,P02,Risk,Regulatory change may alter scope,5,2,Business analyst,2027-03-20,2027-04-09,Closed,2027-04-06
+RAID-010,P02,Risk,Budget may run out before go-live,4,2,Project manager,2027-02-17,2027-03-06,Closed,2027-03-06
+RAID-011,P02,Dependency,Needs security sign-off before go-live,,,IT lead,2027-03-05,2027-04-07,Closed,2027-04-05
+RAID-012,P03,Issue,Requirement gap found in UAT,,5,Project manager,2027-03-17,2027-04-11,Closed,2027-04-13
+RAID-013,P03,Risk,Budget may run out before go-live,3,5,Business analyst,2027-03-14,2027-04-09,Closed,2027-04-09
+RAID-014,P03,Issue,Test environment unavailable for 5 days,,4,Project manager,2027-02-15,2027-03-01,Open,
+RAID-015,P03,Risk,Integration with legacy system may take longer than planned,3,5,Compliance,2027-04-05,2027-04-15,Closed,2027-04-25
+RAID-016,P03,Issue,Requirement gap found in UAT,,5,Compliance,2027-03-29,2027-04-14,Open,
+RAID-017,P03,Action,Book steering committee slot,,,Vendor lead,2027-02-20,2027-03-12,Open,
+RAID-018,P03,Action,Send revised plan to sponsor,,,Compliance,2027-06-11,2027-07-15,Open,
+RAID-019,P03,Issue,Vendor deliverable rejected in review,,3,IT lead,2027-06-08,2027-06-16,Open,
+RAID-020,P03,Action,Send revised plan to sponsor,,,IT lead,2027-04-25,2027-05-13,Closed,2027-05-24
+RAID-021,P03,Dependency,Needs NPCI / NHCX onboarding approval,,,Vendor lead,2027-01-25,2027-02-09,Closed,2027-02-19
+RAID-022,P03,Action,Book steering committee slot,,,Business SME,2027-04-01,2027-04-21,Open,
+RAID-023,P03,Action,Update RAID owners,,,Business analyst,2027-05-22,2027-06-07,Open,
+RAID-024,P04,Dependency,Needs NPCI / NHCX onboarding approval,,,Project manager,2027-01-27,2027-02-05,Closed,2027-01-31
+RAID-025,P04,Issue,Vendor deliverable rejected in review,,3,IT lead,2027-04-08,2027-05-01,Closed,2027-04-30
+RAID-026,P04,Action,Send revised plan to sponsor,,,Compliance,2027-04-07,2027-04-18,Closed,2027-04-15
+RAID-027,P04,Risk,Vendor resource shortage may delay build,2,4,Business SME,2027-01-17,2027-01-31,Closed,2027-01-27
+RAID-028,P04,Issue,Requirement gap found in UAT,,4,IT lead,2027-04-05,2027-04-15,Closed,2027-04-18
+RAID-029,P05,Issue,Vendor deliverable rejected in review,,2,IT lead,2027-04-10,2027-05-10,Closed,2027-05-14
+RAID-030,P05,Risk,Integration with legacy system may take longer than planned,5,5,Compliance,2027-04-30,2027-05-08,Closed,2027-05-09
+RAID-031,P05,Dependency,Needs NPCI / NHCX onboarding approval,,,Compliance,2027-03-26,2027-04-11,Closed,2027-04-09
+RAID-032,P05,Issue,API access delayed by partner,,5,Business analyst,2027-02-17,2027-03-04,Closed,2027-03-05
+RAID-033,P05,Risk,Data quality issues may delay testing,2,2,Business SME,2027-04-09,2027-04-28,Closed,2027-04-29
+RAID-034,P06,Risk,Regulatory change may alter scope,3,2,Project manager,2027-04-13,2027-05-09,Closed,2027-05-11
+RAID-035,P06,Risk,Budget may run out before go-live,3,5,IT lead,2027-02-08,2027-03-08,Closed,2027-03-06
+RAID-036,P06,Risk,Data quality issues may delay testing,2,4,IT lead,2027-04-01,2027-04-08,Closed,2027-04-03
+RAID-037,P07,Action,Confirm UAT dates with business,,,Project manager,2027-06-24,2027-07-28,Open,
+RAID-038,P07,Issue,Requirement gap found in UAT,,3,Compliance,2027-03-21,2027-04-09,Closed,2027-04-14
+RAID-039,P07,Issue,Test environment unavailable for 5 days,,4,IT lead,2027-06-15,2027-06-23,Closed,2027-06-20
+RAID-040,P07,Action,Update RAID owners,,,Business analyst,2027-03-31,2027-04-10,Open,
+RAID-041,P07,Risk,Budget may run out before go-live,5,3,Project manager,2027-04-02,2027-04-14,Open,
+RAID-042,P07,Risk,Budget may run out before go-live,2,2,Project manager,2027-04-27,2027-05-27,Open,
+RAID-043,P07,Issue,Key resource on unplanned leave,,3,Project manager,2027-05-29,2027-06-16,Open,
+RAID-044,P07,Issue,Vendor deliverable rejected in review,,2,Vendor lead,2027-06-18,2027-07-05,Closed,2027-07-02
+RAID-045,P07,Action,Send revised plan to sponsor,,,IT lead,2027-03-25,2027-04-01,Open,
+RAID-046,P07,Dependency,Needs security sign-off before go-live,,,Business SME,2027-04-25,2027-05-03,Closed,2027-05-08
+RAID-047,P07,Dependency,Needs security sign-off before go-live,,,Business SME,2027-01-25,2027-02-09,Closed,2027-02-13
+RAID-048,P08,Risk,Integration with legacy system may take longer than planned,4,5,Business analyst,2027-02-01,2027-03-03,Open,
+RAID-049,P08,Issue,API access delayed by partner,,3,Business SME,2027-05-30,2027-06-25,Open,
+RAID-050,P08,Dependency,Needs NPCI / NHCX onboarding approval,,,Vendor lead,2027-05-04,2027-06-04,Closed,2027-05-30
+RAID-051,P08,Action,Update RAID owners,,,Compliance,2027-05-07,2027-05-25,Open,
+RAID-052,P08,Risk,Integration with legacy system may take longer than planned,2,3,Business analyst,2027-02-06,2027-03-03,Closed,2027-03-13
+RAID-053,P08,Action,Update RAID owners,,,Compliance,2027-03-13,2027-03-30,Closed,2027-04-08
+RAID-054,P08,Risk,Vendor resource shortage may delay build,2,3,Business SME,2027-04-05,2027-04-20,Open,
+RAID-055,P08,Risk,Data quality issues may delay testing,2,5,Business analyst,2027-04-10,2027-04-30,Closed,2027-05-05
+RAID-056,P08,Risk,Vendor resource shortage may delay build,2,4,IT lead,2027-05-28,2027-06-18,Open,
+RAID-057,P08,Risk,Regulatory change may alter scope,3,4,Project manager,2027-05-23,2027-06-01,Open,
+RAID-058,P08,Issue,Test environment unavailable for 5 days,,4,Business analyst,2027-04-27,2027-05-15,Closed,2027-05-19
+RAID-059,P08,Action,Confirm UAT dates with business,,,Vendor lead,2027-04-14,2027-05-06,Open,
+RAID-060,P08,Issue,Test environment unavailable for 5 days,,3,Business SME,2027-05-17,2027-06-18,Open,
+RAID-061,P08,Action,Book steering committee slot,,,Compliance,2027-01-27,2027-02-26,Open,
+RAID-062,P08,Action,Update RAID owners,,,IT lead,2027-05-13,2027-06-03,Open,
+RAID-063,P08,Action,Confirm UAT dates with business,,,Vendor lead,2027-03-14,2027-04-09,Closed,2027-04-14

@@ -1,0 +1,621 @@
+person,role,project_id,week_ending,allocated_hours
+Ananya Rao,Project manager,P01,2027-01-08,23
+Ananya Rao,Project manager,P01,2027-01-15,22
+Ananya Rao,Project manager,P01,2027-01-22,22
+Ananya Rao,Project manager,P01,2027-01-29,21
+Ananya Rao,Project manager,P06,2027-01-29,15
+Ananya Rao,Project manager,P01,2027-02-05,21
+Ananya Rao,Project manager,P06,2027-02-05,14
+Ananya Rao,Project manager,P01,2027-02-12,22
+Ananya Rao,Project manager,P06,2027-02-12,14
+Ananya Rao,Project manager,P01,2027-02-19,22
+Ananya Rao,Project manager,P06,2027-02-19,14
+Ananya Rao,Project manager,P01,2027-02-26,23
+Ananya Rao,Project manager,P06,2027-02-26,14
+Ananya Rao,Project manager,P01,2027-03-05,22
+Ananya Rao,Project manager,P06,2027-03-05,14
+Ananya Rao,Project manager,P01,2027-03-12,23
+Ananya Rao,Project manager,P06,2027-03-12,14
+Ananya Rao,Project manager,P01,2027-03-19,21
+Ananya Rao,Project manager,P06,2027-03-19,14
+Ananya Rao,Project manager,P01,2027-03-26,22
+Ananya Rao,Project manager,P06,2027-03-26,13
+Ananya Rao,Project manager,P01,2027-04-02,24
+Ananya Rao,Project manager,P06,2027-04-02,14
+Ananya Rao,Project manager,P01,2027-04-09,21
+Ananya Rao,Project manager,P06,2027-04-09,15
+Ananya Rao,Project manager,P01,2027-04-16,23
+Ananya Rao,Project manager,P06,2027-04-16,14
+Ananya Rao,Project manager,P01,2027-04-23,21
+Ananya Rao,Project manager,P06,2027-04-23,14
+Ananya Rao,Project manager,P01,2027-04-30,22
+Rohit Kulkarni,Project manager,P02,2027-01-08,30
+Rohit Kulkarni,Project manager,P02,2027-01-15,34
+Rohit Kulkarni,Project manager,P02,2027-01-22,32
+Rohit Kulkarni,Project manager,P02,2027-01-29,34
+Rohit Kulkarni,Project manager,P02,2027-02-05,33
+Rohit Kulkarni,Project manager,P02,2027-02-12,32
+Rohit Kulkarni,Project manager,P02,2027-02-19,31
+Rohit Kulkarni,Project manager,P02,2027-02-26,33
+Rohit Kulkarni,Project manager,P02,2027-03-05,34
+Rohit Kulkarni,Project manager,P02,2027-03-12,33
+Rohit Kulkarni,Project manager,P02,2027-03-19,33
+Rohit Kulkarni,Project manager,P02,2027-03-26,30
+Rohit Kulkarni,Project manager,P02,2027-04-02,32
+Rohit Kulkarni,Project manager,P02,2027-04-09,33
+Rohit Kulkarni,Project manager,P02,2027-04-16,33
+Meera Iyer,Project manager,P03,2027-01-22,37
+Meera Iyer,Project manager,P03,2027-01-29,35
+Meera Iyer,Project manager,P03,2027-02-05,37
+Meera Iyer,Project manager,P03,2027-02-12,39
+Meera Iyer,Project manager,P03,2027-02-19,36
+Meera Iyer,Project manager,P03,2027-02-26,36
+Meera Iyer,Project manager,P03,2027-03-05,35
+Meera Iyer,Project manager,P03,2027-03-12,37
+Meera Iyer,Project manager,P03,2027-03-19,36
+Meera Iyer,Project manager,P03,2027-03-26,35
+Meera Iyer,Project manager,P03,2027-04-02,38
+Meera Iyer,Project manager,P03,2027-04-09,36
+Meera Iyer,Project manager,P03,2027-04-16,34
+Meera Iyer,Project manager,P03,2027-04-23,37
+Meera Iyer,Project manager,P03,2027-04-30,35
+Meera Iyer,Project manager,P03,2027-05-07,35
+Meera Iyer,Project manager,P03,2027-05-14,38
+Meera Iyer,Project manager,P03,2027-05-21,32
+Meera Iyer,Project manager,P03,2027-05-28,34
+Meera Iyer,Project manager,P03,2027-06-04,36
+Meera Iyer,Project manager,P03,2027-06-11,39
+Meera Iyer,Project manager,P03,2027-06-18,36
+Meera Iyer,Project manager,P03,2027-06-25,37
+Meera Iyer,Project manager,P03,2027-07-02,35
+Vikram Shah,Project manager,P04,2027-01-15,30
+Vikram Shah,Project manager,P04,2027-01-22,29
+Vikram Shah,Project manager,P04,2027-01-29,33
+Vikram Shah,Project manager,P04,2027-02-05,33
+Vikram Shah,Project manager,P04,2027-02-12,32
+Vikram Shah,Project manager,P04,2027-02-19,32
+Vikram Shah,Project manager,P04,2027-02-26,34
+Vikram Shah,Project manager,P04,2027-03-05,31
+Vikram Shah,Project manager,P04,2027-03-12,33
+Vikram Shah,Project manager,P04,2027-03-19,33
+Vikram Shah,Project manager,P04,2027-03-26,30
+Vikram Shah,Project manager,P04,2027-04-02,31
+Vikram Shah,Project manager,P04,2027-04-09,34
+Vikram Shah,Project manager,P04,2027-04-16,33
+Vikram Shah,Project manager,P04,2027-04-23,32
+Vikram Shah,Project manager,P04,2027-04-30,32
+Vikram Shah,Project manager,P04,2027-05-07,30
+Farah Khan,Project manager,P05,2027-01-08,32
+Farah Khan,Project manager,P05,2027-01-15,31
+Farah Khan,Project manager,P05,2027-01-22,28
+Farah Khan,Project manager,P05,2027-01-29,31
+Farah Khan,Project manager,P05,2027-02-05,28
+Farah Khan,Project manager,P05,2027-02-12,31
+Farah Khan,Project manager,P05,2027-02-19,30
+Farah Khan,Project manager,P05,2027-02-26,28
+Farah Khan,Project manager,P05,2027-03-05,28
+Farah Khan,Project manager,P05,2027-03-12,30
+Farah Khan,Project manager,P05,2027-03-19,29
+Farah Khan,Project manager,P05,2027-03-26,33
+Farah Khan,Project manager,P05,2027-04-02,30
+Farah Khan,Project manager,P05,2027-04-09,29
+Farah Khan,Project manager,P05,2027-04-16,30
+Farah Khan,Project manager,P05,2027-04-23,31
+Farah Khan,Project manager,P05,2027-04-30,30
+Farah Khan,Project manager,P05,2027-05-07,30
+Farah Khan,Project manager,P05,2027-05-14,29
+Farah Khan,Project manager,P05,2027-05-21,28
+Farah Khan,Project manager,P05,2027-05-28,29
+Farah Khan,Project manager,P05,2027-06-04,31
+Sanjay Menon,Project manager,P07,2027-01-15,34
+Sanjay Menon,Project manager,P07,2027-01-22,35
+Sanjay Menon,Project manager,P07,2027-01-29,33
+Sanjay Menon,Project manager,P07,2027-02-05,34
+Sanjay Menon,Project manager,P07,2027-02-12,35
+Sanjay Menon,Project manager,P07,2027-02-19,36
+Sanjay Menon,Project manager,P07,2027-02-26,35
+Sanjay Menon,Project manager,P07,2027-03-05,31
+Sanjay Menon,Project manager,P07,2027-03-12,33
+Sanjay Menon,Project manager,P07,2027-03-19,35
+Sanjay Menon,Project manager,P07,2027-03-26,35
+Sanjay Menon,Project manager,P07,2027-04-02,32
+Sanjay Menon,Project manager,P07,2027-04-09,33
+Sanjay Menon,Project manager,P07,2027-04-16,32
+Sanjay Menon,Project manager,P07,2027-04-23,33
+Sanjay Menon,Project manager,P07,2027-04-30,34
+Sanjay Menon,Project manager,P07,2027-05-07,34
+Sanjay Menon,Project manager,P07,2027-05-14,35
+Sanjay Menon,Project manager,P07,2027-05-21,34
+Sanjay Menon,Project manager,P07,2027-05-28,35
+Sanjay Menon,Project manager,P07,2027-06-04,36
+Sanjay Menon,Project manager,P07,2027-06-11,36
+Sanjay Menon,Project manager,P07,2027-06-18,36
+Sanjay Menon,Project manager,P07,2027-06-25,34
+Sanjay Menon,Project manager,P07,2027-07-02,32
+Deepa Nair,Project manager,P08,2027-01-08,35
+Deepa Nair,Project manager,P08,2027-01-15,35
+Deepa Nair,Project manager,P08,2027-01-22,33
+Deepa Nair,Project manager,P08,2027-01-29,35
+Deepa Nair,Project manager,P08,2027-02-05,39
+Deepa Nair,Project manager,P08,2027-02-12,38
+Deepa Nair,Project manager,P08,2027-02-19,36
+Deepa Nair,Project manager,P08,2027-02-26,38
+Deepa Nair,Project manager,P08,2027-03-05,36
+Deepa Nair,Project manager,P08,2027-03-12,39
+Deepa Nair,Project manager,P08,2027-03-19,36
+Deepa Nair,Project manager,P08,2027-03-26,36
+Deepa Nair,Project manager,P08,2027-04-02,36
+Deepa Nair,Project manager,P08,2027-04-09,36
+Deepa Nair,Project manager,P08,2027-04-16,38
+Deepa Nair,Project manager,P08,2027-04-23,34
+Deepa Nair,Project manager,P08,2027-04-30,36
+Deepa Nair,Project manager,P08,2027-05-07,36
+Deepa Nair,Project manager,P08,2027-05-14,38
+Deepa Nair,Project manager,P08,2027-05-21,36
+Deepa Nair,Project manager,P08,2027-05-28,36
+Deepa Nair,Project manager,P08,2027-06-04,32
+Deepa Nair,Project manager,P08,2027-06-11,35
+Deepa Nair,Project manager,P08,2027-06-18,37
+Deepa Nair,Project manager,P08,2027-06-25,34
+Deepa Nair,Project manager,P08,2027-07-02,36
+Kavya Joshi,Business analyst,P02,2027-01-08,21
+Kavya Joshi,Business analyst,P02,2027-01-15,19
+Kavya Joshi,Business analyst,P02,2027-01-22,21
+Kavya Joshi,Business analyst,P03,2027-01-22,27
+Kavya Joshi,Business analyst,P02,2027-01-29,20
+Kavya Joshi,Business analyst,P03,2027-01-29,27
+Kavya Joshi,Business analyst,P02,2027-02-05,22
+Kavya Joshi,Business analyst,P03,2027-02-05,26
+Kavya Joshi,Business analyst,P02,2027-02-12,20
+Kavya Joshi,Business analyst,P03,2027-02-12,26
+Kavya Joshi,Business analyst,P02,2027-02-19,19
+Kavya Joshi,Business analyst,P03,2027-02-19,27
+Kavya Joshi,Business analyst,P02,2027-02-26,21
+Kavya Joshi,Business analyst,P03,2027-02-26,25
+Kavya Joshi,Business analyst,P02,2027-03-05,20
+Kavya Joshi,Business analyst,P03,2027-03-05,26
+Kavya Joshi,Business analyst,P02,2027-03-12,20
+Kavya Joshi,Business analyst,P03,2027-03-12,25
+Kavya Joshi,Business analyst,P02,2027-03-19,20
+Kavya Joshi,Business analyst,P03,2027-03-19,27
+Kavya Joshi,Business analyst,P02,2027-03-26,20
+Kavya Joshi,Business analyst,P03,2027-03-26,26
+Kavya Joshi,Business analyst,P02,2027-04-02,20
+Kavya Joshi,Business analyst,P03,2027-04-02,27
+Kavya Joshi,Business analyst,P02,2027-04-09,20
+Kavya Joshi,Business analyst,P03,2027-04-09,28
+Kavya Joshi,Business analyst,P02,2027-04-16,21
+Kavya Joshi,Business analyst,P03,2027-04-16,27
+Kavya Joshi,Business analyst,P03,2027-04-23,25
+Kavya Joshi,Business analyst,P03,2027-04-30,27
+Kavya Joshi,Business analyst,P03,2027-05-07,25
+Kavya Joshi,Business analyst,P03,2027-05-14,27
+Kavya Joshi,Business analyst,P03,2027-05-21,25
+Kavya Joshi,Business analyst,P03,2027-05-28,27
+Kavya Joshi,Business analyst,P03,2027-06-04,25
+Kavya Joshi,Business analyst,P03,2027-06-11,26
+Kavya Joshi,Business analyst,P03,2027-06-18,25
+Kavya Joshi,Business analyst,P03,2027-06-25,27
+Kavya Joshi,Business analyst,P03,2027-07-02,24
+Arjun Patil,Business analyst,P08,2027-01-08,21
+Arjun Patil,Business analyst,P07,2027-01-15,24
+Arjun Patil,Business analyst,P08,2027-01-15,22
+Arjun Patil,Business analyst,P07,2027-01-22,26
+Arjun Patil,Business analyst,P08,2027-01-22,19
+Arjun Patil,Business analyst,P07,2027-01-29,26
+Arjun Patil,Business analyst,P08,2027-01-29,21
+Arjun Patil,Business analyst,P07,2027-02-05,24
+Arjun Patil,Business analyst,P08,2027-02-05,19
+Arjun Patil,Business analyst,P07,2027-02-12,23
+Arjun Patil,Business analyst,P08,2027-02-12,21
+Arjun Patil,Business analyst,P07,2027-02-19,24
+Arjun Patil,Business analyst,P08,2027-02-19,20
+Arjun Patil,Business analyst,P07,2027-02-26,24
+Arjun Patil,Business analyst,P08,2027-02-26,19
+Arjun Patil,Business analyst,P07,2027-03-05,25
+Arjun Patil,Business analyst,P08,2027-03-05,19
+Arjun Patil,Business analyst,P07,2027-03-12,25
+Arjun Patil,Business analyst,P08,2027-03-12,21
+Arjun Patil,Business analyst,P07,2027-03-19,26
+Arjun Patil,Business analyst,P08,2027-03-19,20
+Arjun Patil,Business analyst,P07,2027-03-26,24
+Arjun Patil,Business analyst,P08,2027-03-26,19
+Arjun Patil,Business analyst,P07,2027-04-02,23
+Arjun Patil,Business analyst,P08,2027-04-02,20
+Arjun Patil,Business analyst,P07,2027-04-09,25
+Arjun Patil,Business analyst,P08,2027-04-09,20
+Arjun Patil,Business analyst,P07,2027-04-16,25
+Arjun Patil,Business analyst,P08,2027-04-16,20
+Arjun Patil,Business analyst,P07,2027-04-23,23
+Arjun Patil,Business analyst,P08,2027-04-23,20
+Arjun Patil,Business analyst,P07,2027-04-30,24
+Arjun Patil,Business analyst,P08,2027-04-30,19
+Arjun Patil,Business analyst,P07,2027-05-07,23
+Arjun Patil,Business analyst,P08,2027-05-07,20
+Arjun Patil,Business analyst,P07,2027-05-14,25
+Arjun Patil,Business analyst,P08,2027-05-14,20
+Arjun Patil,Business analyst,P07,2027-05-21,24
+Arjun Patil,Business analyst,P08,2027-05-21,19
+Arjun Patil,Business analyst,P07,2027-05-28,24
+Arjun Patil,Business analyst,P08,2027-05-28,20
+Arjun Patil,Business analyst,P07,2027-06-04,25
+Arjun Patil,Business analyst,P08,2027-06-04,20
+Arjun Patil,Business analyst,P07,2027-06-11,25
+Arjun Patil,Business analyst,P08,2027-06-11,20
+Arjun Patil,Business analyst,P07,2027-06-18,24
+Arjun Patil,Business analyst,P08,2027-06-18,19
+Arjun Patil,Business analyst,P07,2027-06-25,25
+Arjun Patil,Business analyst,P08,2027-06-25,20
+Arjun Patil,Business analyst,P07,2027-07-02,25
+Arjun Patil,Business analyst,P08,2027-07-02,19
+Nisha Verma,Business analyst,P01,2027-01-08,18
+Nisha Verma,Business analyst,P01,2027-01-15,19
+Nisha Verma,Business analyst,P04,2027-01-15,19
+Nisha Verma,Business analyst,P01,2027-01-22,18
+Nisha Verma,Business analyst,P04,2027-01-22,18
+Nisha Verma,Business analyst,P01,2027-01-29,17
+Nisha Verma,Business analyst,P04,2027-01-29,18
+Nisha Verma,Business analyst,P01,2027-02-05,17
+Nisha Verma,Business analyst,P04,2027-02-05,19
+Nisha Verma,Business analyst,P01,2027-02-12,18
+Nisha Verma,Business analyst,P04,2027-02-12,18
+Nisha Verma,Business analyst,P01,2027-02-19,17
+Nisha Verma,Business analyst,P04,2027-02-19,18
+Nisha Verma,Business analyst,P01,2027-02-26,18
+Nisha Verma,Business analyst,P04,2027-02-26,17
+Nisha Verma,Business analyst,P01,2027-03-05,18
+Nisha Verma,Business analyst,P04,2027-03-05,18
+Nisha Verma,Business analyst,P01,2027-03-12,17
+Nisha Verma,Business analyst,P04,2027-03-12,18
+Nisha Verma,Business analyst,P01,2027-03-19,18
+Nisha Verma,Business analyst,P04,2027-03-19,18
+Nisha Verma,Business analyst,P01,2027-03-26,18
+Nisha Verma,Business analyst,P04,2027-03-26,17
+Nisha Verma,Business analyst,P01,2027-04-02,18
+Nisha Verma,Business analyst,P04,2027-04-02,18
+Nisha Verma,Business analyst,P01,2027-04-09,18
+Nisha Verma,Business analyst,P04,2027-04-09,17
+Nisha Verma,Business analyst,P01,2027-04-16,17
+Nisha Verma,Business analyst,P04,2027-04-16,18
+Nisha Verma,Business analyst,P01,2027-04-23,18
+Nisha Verma,Business analyst,P04,2027-04-23,19
+Nisha Verma,Business analyst,P01,2027-04-30,18
+Nisha Verma,Business analyst,P04,2027-04-30,17
+Nisha Verma,Business analyst,P04,2027-05-07,18
+Imran Sheikh,Developer,P07,2027-01-15,19
+Imran Sheikh,Developer,P03,2027-01-22,31
+Imran Sheikh,Developer,P07,2027-01-22,17
+Imran Sheikh,Developer,P03,2027-01-29,30
+Imran Sheikh,Developer,P07,2027-01-29,18
+Imran Sheikh,Developer,P03,2027-02-05,30
+Imran Sheikh,Developer,P07,2027-02-05,17
+Imran Sheikh,Developer,P03,2027-02-12,30
+Imran Sheikh,Developer,P07,2027-02-12,18
+Imran Sheikh,Developer,P03,2027-02-19,29
+Imran Sheikh,Developer,P07,2027-02-19,18
+Imran Sheikh,Developer,P03,2027-02-26,31
+Imran Sheikh,Developer,P07,2027-02-26,17
+Imran Sheikh,Developer,P03,2027-03-05,31
+Imran Sheikh,Developer,P07,2027-03-05,19
+Imran Sheikh,Developer,P03,2027-03-12,29
+Imran Sheikh,Developer,P07,2027-03-12,18
+Imran Sheikh,Developer,P03,2027-03-19,29
+Imran Sheikh,Developer,P07,2027-03-19,18
+Imran Sheikh,Developer,P03,2027-03-26,30
+Imran Sheikh,Developer,P07,2027-03-26,18
+Imran Sheikh,Developer,P03,2027-04-02,29
+Imran Sheikh,Developer,P07,2027-04-02,18
+Imran Sheikh,Developer,P03,2027-04-09,30
+Imran Sheikh,Developer,P07,2027-04-09,20
+Imran Sheikh,Developer,P03,2027-04-16,30
+Imran Sheikh,Developer,P07,2027-04-16,18
+Imran Sheikh,Developer,P03,2027-04-23,29
+Imran Sheikh,Developer,P07,2027-04-23,19
+Imran Sheikh,Developer,P03,2027-04-30,29
+Imran Sheikh,Developer,P07,2027-04-30,18
+Imran Sheikh,Developer,P03,2027-05-07,31
+Imran Sheikh,Developer,P07,2027-05-07,18
+Imran Sheikh,Developer,P03,2027-05-14,32
+Imran Sheikh,Developer,P07,2027-05-14,19
+Imran Sheikh,Developer,P03,2027-05-21,29
+Imran Sheikh,Developer,P07,2027-05-21,17
+Imran Sheikh,Developer,P03,2027-05-28,30
+Imran Sheikh,Developer,P07,2027-05-28,18
+Imran Sheikh,Developer,P03,2027-06-04,29
+Imran Sheikh,Developer,P07,2027-06-04,18
+Imran Sheikh,Developer,P03,2027-06-11,31
+Imran Sheikh,Developer,P07,2027-06-11,19
+Imran Sheikh,Developer,P03,2027-06-18,32
+Imran Sheikh,Developer,P07,2027-06-18,19
+Imran Sheikh,Developer,P03,2027-06-25,31
+Imran Sheikh,Developer,P07,2027-06-25,19
+Imran Sheikh,Developer,P03,2027-07-02,32
+Imran Sheikh,Developer,P07,2027-07-02,18
+Pooja Desai,Developer,P04,2027-01-15,28
+Pooja Desai,Developer,P04,2027-01-22,29
+Pooja Desai,Developer,P04,2027-01-29,27
+Pooja Desai,Developer,P06,2027-01-29,8
+Pooja Desai,Developer,P04,2027-02-05,29
+Pooja Desai,Developer,P06,2027-02-05,8
+Pooja Desai,Developer,P04,2027-02-12,28
+Pooja Desai,Developer,P06,2027-02-12,8
+Pooja Desai,Developer,P04,2027-02-19,27
+Pooja Desai,Developer,P06,2027-02-19,8
+Pooja Desai,Developer,P04,2027-02-26,29
+Pooja Desai,Developer,P06,2027-02-26,8
+Pooja Desai,Developer,P04,2027-03-05,28
+Pooja Desai,Developer,P06,2027-03-05,8
+Pooja Desai,Developer,P04,2027-03-12,28
+Pooja Desai,Developer,P06,2027-03-12,9
+Pooja Desai,Developer,P04,2027-03-19,27
+Pooja Desai,Developer,P06,2027-03-19,8
+Pooja Desai,Developer,P04,2027-03-26,28
+Pooja Desai,Developer,P06,2027-03-26,9
+Pooja Desai,Developer,P04,2027-04-02,29
+Pooja Desai,Developer,P06,2027-04-02,8
+Pooja Desai,Developer,P04,2027-04-09,28
+Pooja Desai,Developer,P06,2027-04-09,8
+Pooja Desai,Developer,P04,2027-04-16,27
+Pooja Desai,Developer,P06,2027-04-16,8
+Pooja Desai,Developer,P04,2027-04-23,28
+Pooja Desai,Developer,P06,2027-04-23,8
+Pooja Desai,Developer,P04,2027-04-30,30
+Pooja Desai,Developer,P04,2027-05-07,28
+Rahul Gupta,Developer,P08,2027-01-08,36
+Rahul Gupta,Developer,P08,2027-01-15,36
+Rahul Gupta,Developer,P08,2027-01-22,35
+Rahul Gupta,Developer,P08,2027-01-29,36
+Rahul Gupta,Developer,P08,2027-02-05,37
+Rahul Gupta,Developer,P08,2027-02-12,36
+Rahul Gupta,Developer,P08,2027-02-19,35
+Rahul Gupta,Developer,P08,2027-02-26,36
+Rahul Gupta,Developer,P08,2027-03-05,34
+Rahul Gupta,Developer,P08,2027-03-12,37
+Rahul Gupta,Developer,P08,2027-03-19,34
+Rahul Gupta,Developer,P08,2027-03-26,36
+Rahul Gupta,Developer,P08,2027-04-02,37
+Rahul Gupta,Developer,P08,2027-04-09,36
+Rahul Gupta,Developer,P08,2027-04-16,35
+Rahul Gupta,Developer,P08,2027-04-23,34
+Rahul Gupta,Developer,P08,2027-04-30,37
+Rahul Gupta,Developer,P08,2027-05-07,37
+Rahul Gupta,Developer,P08,2027-05-14,37
+Rahul Gupta,Developer,P08,2027-05-21,36
+Rahul Gupta,Developer,P08,2027-05-28,35
+Rahul Gupta,Developer,P08,2027-06-04,38
+Rahul Gupta,Developer,P08,2027-06-11,38
+Rahul Gupta,Developer,P08,2027-06-18,36
+Rahul Gupta,Developer,P08,2027-06-25,38
+Rahul Gupta,Developer,P08,2027-07-02,36
+Sneha Pillai,QA analyst,P01,2027-01-08,14
+Sneha Pillai,QA analyst,P02,2027-01-08,12
+Sneha Pillai,QA analyst,P05,2027-01-08,10
+Sneha Pillai,QA analyst,P01,2027-01-15,14
+Sneha Pillai,QA analyst,P02,2027-01-15,12
+Sneha Pillai,QA analyst,P05,2027-01-15,10
+Sneha Pillai,QA analyst,P01,2027-01-22,14
+Sneha Pillai,QA analyst,P02,2027-01-22,12
+Sneha Pillai,QA analyst,P05,2027-01-22,10
+Sneha Pillai,QA analyst,P01,2027-01-29,14
+Sneha Pillai,QA analyst,P02,2027-01-29,13
+Sneha Pillai,QA analyst,P05,2027-01-29,10
+Sneha Pillai,QA analyst,P01,2027-02-05,14
+Sneha Pillai,QA analyst,P02,2027-02-05,11
+Sneha Pillai,QA analyst,P05,2027-02-05,10
+Sneha Pillai,QA analyst,P01,2027-02-12,14
+Sneha Pillai,QA analyst,P02,2027-02-12,12
+Sneha Pillai,QA analyst,P05,2027-02-12,10
+Sneha Pillai,QA analyst,P01,2027-02-19,14
+Sneha Pillai,QA analyst,P02,2027-02-19,12
+Sneha Pillai,QA analyst,P05,2027-02-19,10
+Sneha Pillai,QA analyst,P01,2027-02-26,14
+Sneha Pillai,QA analyst,P02,2027-02-26,12
+Sneha Pillai,QA analyst,P05,2027-02-26,10
+Sneha Pillai,QA analyst,P01,2027-03-05,15
+Sneha Pillai,QA analyst,P02,2027-03-05,12
+Sneha Pillai,QA analyst,P05,2027-03-05,9
+Sneha Pillai,QA analyst,P01,2027-03-12,14
+Sneha Pillai,QA analyst,P02,2027-03-12,13
+Sneha Pillai,QA analyst,P05,2027-03-12,9
+Sneha Pillai,QA analyst,P01,2027-03-19,13
+Sneha Pillai,QA analyst,P02,2027-03-19,11
+Sneha Pillai,QA analyst,P05,2027-03-19,10
+Sneha Pillai,QA analyst,P01,2027-03-26,14
+Sneha Pillai,QA analyst,P02,2027-03-26,13
+Sneha Pillai,QA analyst,P05,2027-03-26,10
+Sneha Pillai,QA analyst,P01,2027-04-02,14
+Sneha Pillai,QA analyst,P02,2027-04-02,13
+Sneha Pillai,QA analyst,P05,2027-04-02,10
+Sneha Pillai,QA analyst,P01,2027-04-09,15
+Sneha Pillai,QA analyst,P02,2027-04-09,12
+Sneha Pillai,QA analyst,P05,2027-04-09,10
+Sneha Pillai,QA analyst,P01,2027-04-16,13
+Sneha Pillai,QA analyst,P02,2027-04-16,12
+Sneha Pillai,QA analyst,P05,2027-04-16,10
+Sneha Pillai,QA analyst,P01,2027-04-23,15
+Sneha Pillai,QA analyst,P05,2027-04-23,10
+Sneha Pillai,QA analyst,P01,2027-04-30,13
+Sneha Pillai,QA analyst,P05,2027-04-30,10
+Sneha Pillai,QA analyst,P05,2027-05-07,10
+Sneha Pillai,QA analyst,P05,2027-05-14,10
+Sneha Pillai,QA analyst,P05,2027-05-21,10
+Sneha Pillai,QA analyst,P05,2027-05-28,10
+Sneha Pillai,QA analyst,P05,2027-06-04,10
+Aditya Bose,QA analyst,P08,2027-01-08,26
+Aditya Bose,QA analyst,P07,2027-01-15,20
+Aditya Bose,QA analyst,P08,2027-01-15,24
+Aditya Bose,QA analyst,P07,2027-01-22,19
+Aditya Bose,QA analyst,P08,2027-01-22,23
+Aditya Bose,QA analyst,P07,2027-01-29,20
+Aditya Bose,QA analyst,P08,2027-01-29,24
+Aditya Bose,QA analyst,P07,2027-02-05,21
+Aditya Bose,QA analyst,P08,2027-02-05,24
+Aditya Bose,QA analyst,P07,2027-02-12,21
+Aditya Bose,QA analyst,P08,2027-02-12,24
+Aditya Bose,QA analyst,P07,2027-02-19,20
+Aditya Bose,QA analyst,P08,2027-02-19,27
+Aditya Bose,QA analyst,P07,2027-02-26,20
+Aditya Bose,QA analyst,P08,2027-02-26,25
+Aditya Bose,QA analyst,P07,2027-03-05,17
+Aditya Bose,QA analyst,P08,2027-03-05,26
+Aditya Bose,QA analyst,P07,2027-03-12,19
+Aditya Bose,QA analyst,P08,2027-03-12,24
+Aditya Bose,QA analyst,P07,2027-03-19,21
+Aditya Bose,QA analyst,P08,2027-03-19,23
+Aditya Bose,QA analyst,P07,2027-03-26,20
+Aditya Bose,QA analyst,P08,2027-03-26,22
+Aditya Bose,QA analyst,P07,2027-04-02,20
+Aditya Bose,QA analyst,P08,2027-04-02,26
+Aditya Bose,QA analyst,P07,2027-04-09,20
+Aditya Bose,QA analyst,P08,2027-04-09,24
+Aditya Bose,QA analyst,P07,2027-04-16,19
+Aditya Bose,QA analyst,P08,2027-04-16,23
+Aditya Bose,QA analyst,P07,2027-04-23,18
+Aditya Bose,QA analyst,P08,2027-04-23,25
+Aditya Bose,QA analyst,P07,2027-04-30,20
+Aditya Bose,QA analyst,P08,2027-04-30,24
+Aditya Bose,QA analyst,P07,2027-05-07,20
+Aditya Bose,QA analyst,P08,2027-05-07,24
+Aditya Bose,QA analyst,P07,2027-05-14,21
+Aditya Bose,QA analyst,P08,2027-05-14,22
+Aditya Bose,QA analyst,P07,2027-05-21,20
+Aditya Bose,QA analyst,P08,2027-05-21,24
+Aditya Bose,QA analyst,P07,2027-05-28,19
+Aditya Bose,QA analyst,P08,2027-05-28,23
+Aditya Bose,QA analyst,P07,2027-06-04,20
+Aditya Bose,QA analyst,P08,2027-06-04,23
+Aditya Bose,QA analyst,P07,2027-06-11,21
+Aditya Bose,QA analyst,P08,2027-06-11,25
+Aditya Bose,QA analyst,P07,2027-06-18,21
+Aditya Bose,QA analyst,P08,2027-06-18,25
+Aditya Bose,QA analyst,P07,2027-06-25,20
+Aditya Bose,QA analyst,P08,2027-06-25,24
+Aditya Bose,QA analyst,P07,2027-07-02,21
+Aditya Bose,QA analyst,P08,2027-07-02,24
+Tanvi Mehta,Data analyst,P05,2027-01-08,21
+Tanvi Mehta,Data analyst,P05,2027-01-15,21
+Tanvi Mehta,Data analyst,P05,2027-01-22,22
+Tanvi Mehta,Data analyst,P05,2027-01-29,22
+Tanvi Mehta,Data analyst,P06,2027-01-29,15
+Tanvi Mehta,Data analyst,P05,2027-02-05,22
+Tanvi Mehta,Data analyst,P06,2027-02-05,14
+Tanvi Mehta,Data analyst,P05,2027-02-12,22
+Tanvi Mehta,Data analyst,P06,2027-02-12,14
+Tanvi Mehta,Data analyst,P05,2027-02-19,22
+Tanvi Mehta,Data analyst,P06,2027-02-19,14
+Tanvi Mehta,Data analyst,P05,2027-02-26,22
+Tanvi Mehta,Data analyst,P06,2027-02-26,13
+Tanvi Mehta,Data analyst,P05,2027-03-05,23
+Tanvi Mehta,Data analyst,P06,2027-03-05,14
+Tanvi Mehta,Data analyst,P05,2027-03-12,21
+Tanvi Mehta,Data analyst,P06,2027-03-12,15
+Tanvi Mehta,Data analyst,P05,2027-03-19,21
+Tanvi Mehta,Data analyst,P06,2027-03-19,15
+Tanvi Mehta,Data analyst,P05,2027-03-26,21
+Tanvi Mehta,Data analyst,P06,2027-03-26,14
+Tanvi Mehta,Data analyst,P05,2027-04-02,22
+Tanvi Mehta,Data analyst,P06,2027-04-02,14
+Tanvi Mehta,Data analyst,P05,2027-04-09,22
+Tanvi Mehta,Data analyst,P06,2027-04-09,13
+Tanvi Mehta,Data analyst,P05,2027-04-16,22
+Tanvi Mehta,Data analyst,P06,2027-04-16,14
+Tanvi Mehta,Data analyst,P05,2027-04-23,22
+Tanvi Mehta,Data analyst,P06,2027-04-23,14
+Tanvi Mehta,Data analyst,P05,2027-04-30,22
+Tanvi Mehta,Data analyst,P05,2027-05-07,20
+Tanvi Mehta,Data analyst,P05,2027-05-14,23
+Tanvi Mehta,Data analyst,P05,2027-05-21,21
+Tanvi Mehta,Data analyst,P05,2027-05-28,22
+Tanvi Mehta,Data analyst,P05,2027-06-04,22
+Karan Malhotra,Data analyst,P08,2027-01-08,35
+Karan Malhotra,Data analyst,P08,2027-01-15,31
+Karan Malhotra,Data analyst,P08,2027-01-22,31
+Karan Malhotra,Data analyst,P08,2027-01-29,30
+Karan Malhotra,Data analyst,P08,2027-02-05,32
+Karan Malhotra,Data analyst,P08,2027-02-12,33
+Karan Malhotra,Data analyst,P08,2027-02-19,33
+Karan Malhotra,Data analyst,P08,2027-02-26,32
+Karan Malhotra,Data analyst,P08,2027-03-05,33
+Karan Malhotra,Data analyst,P08,2027-03-12,32
+Karan Malhotra,Data analyst,P08,2027-03-19,32
+Karan Malhotra,Data analyst,P08,2027-03-26,30
+Karan Malhotra,Data analyst,P08,2027-04-02,34
+Karan Malhotra,Data analyst,P08,2027-04-09,33
+Karan Malhotra,Data analyst,P08,2027-04-16,32
+Karan Malhotra,Data analyst,P08,2027-04-23,30
+Karan Malhotra,Data analyst,P08,2027-04-30,32
+Karan Malhotra,Data analyst,P08,2027-05-07,35
+Karan Malhotra,Data analyst,P08,2027-05-14,31
+Karan Malhotra,Data analyst,P08,2027-05-21,31
+Karan Malhotra,Data analyst,P08,2027-05-28,33
+Karan Malhotra,Data analyst,P08,2027-06-04,31
+Karan Malhotra,Data analyst,P08,2027-06-11,32
+Karan Malhotra,Data analyst,P08,2027-06-18,33
+Karan Malhotra,Data analyst,P08,2027-06-25,31
+Karan Malhotra,Data analyst,P08,2027-07-02,32
+Ritu Sharma,Change manager,P01,2027-01-08,12
+Ritu Sharma,Change manager,P01,2027-01-15,12
+Ritu Sharma,Change manager,P07,2027-01-15,12
+Ritu Sharma,Change manager,P01,2027-01-22,12
+Ritu Sharma,Change manager,P03,2027-01-22,12
+Ritu Sharma,Change manager,P07,2027-01-22,12
+Ritu Sharma,Change manager,P01,2027-01-29,12
+Ritu Sharma,Change manager,P03,2027-01-29,13
+Ritu Sharma,Change manager,P07,2027-01-29,12
+Ritu Sharma,Change manager,P01,2027-02-05,12
+Ritu Sharma,Change manager,P03,2027-02-05,12
+Ritu Sharma,Change manager,P07,2027-02-05,11
+Ritu Sharma,Change manager,P01,2027-02-12,12
+Ritu Sharma,Change manager,P03,2027-02-12,12
+Ritu Sharma,Change manager,P07,2027-02-12,12
+Ritu Sharma,Change manager,P01,2027-02-19,13
+Ritu Sharma,Change manager,P03,2027-02-19,12
+Ritu Sharma,Change manager,P07,2027-02-19,12
+Ritu Sharma,Change manager,P01,2027-02-26,12
+Ritu Sharma,Change manager,P03,2027-02-26,12
+Ritu Sharma,Change manager,P07,2027-02-26,12
+Ritu Sharma,Change manager,P01,2027-03-05,12
+Ritu Sharma,Change manager,P03,2027-03-05,12
+Ritu Sharma,Change manager,P07,2027-03-05,12
+Ritu Sharma,Change manager,P01,2027-03-12,12
+Ritu Sharma,Change manager,P03,2027-03-12,12
+Ritu Sharma,Change manager,P07,2027-03-12,12
+Ritu Sharma,Change manager,P01,2027-03-19,12
+Ritu Sharma,Change manager,P03,2027-03-19,12
+Ritu Sharma,Change manager,P07,2027-03-19,12
+Ritu Sharma,Change manager,P01,2027-03-26,12
+Ritu Sharma,Change manager,P03,2027-03-26,12
+Ritu Sharma,Change manager,P07,2027-03-26,12
+Ritu Sharma,Change manager,P01,2027-04-02,12
+Ritu Sharma,Change manager,P03,2027-04-02,12
+Ritu Sharma,Change manager,P07,2027-04-02,12
+Ritu Sharma,Change manager,P01,2027-04-09,12
+Ritu Sharma,Change manager,P03,2027-04-09,11
+Ritu Sharma,Change manager,P07,2027-04-09,12
+Ritu Sharma,Change manager,P01,2027-04-16,12
+Ritu Sharma,Change manager,P03,2027-04-16,12
+Ritu Sharma,Change manager,P07,2027-04-16,13
+Ritu Sharma,Change manager,P01,2027-04-23,12
+Ritu Sharma,Change manager,P03,2027-04-23,13
+Ritu Sharma,Change manager,P07,2027-04-23,12
+Ritu Sharma,Change manager,P01,2027-04-30,13
+Ritu Sharma,Change manager,P03,2027-04-30,13
+Ritu Sharma,Change manager,P07,2027-04-30,11
+Ritu Sharma,Change manager,P03,2027-05-07,12
+Ritu Sharma,Change manager,P07,2027-05-07,11
+Ritu Sharma,Change manager,P03,2027-05-14,12
+Ritu Sharma,Change manager,P07,2027-05-14,13
+Ritu Sharma,Change manager,P03,2027-05-21,12
+Ritu Sharma,Change manager,P07,2027-05-21,12
+Ritu Sharma,Change manager,P03,2027-05-28,12
+Ritu Sharma,Change manager,P07,2027-05-28,12
+Ritu Sharma,Change manager,P03,2027-06-04,12
+Ritu Sharma,Change manager,P07,2027-06-04,11
+Ritu Sharma,Change manager,P03,2027-06-11,11
+Ritu Sharma,Change manager,P07,2027-06-11,12
+Ritu Sharma,Change manager,P03,2027-06-18,11
+Ritu Sharma,Change manager,P07,2027-06-18,13
+Ritu Sharma,Change manager,P03,2027-06-25,13
+Ritu Sharma,Change manager,P07,2027-06-25,12
+Ritu Sharma,Change manager,P03,2027-07-02,12
+Ritu Sharma,Change manager,P07,2027-07-02,12

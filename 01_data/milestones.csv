@@ -1,0 +1,39 @@
+milestone_id,project_id,milestone,planned_date,forecast_date,actual_date,status
+P01-M1,P01,Vendor slots contracted,2027-01-22,2027-01-22,2027-01-22,Completed
+P01-M2,P01,Scheduling module live,2027-02-12,2027-02-15,2027-02-15,Completed
+P01-M3,P01,Agent pool expanded,2027-03-12,2027-03-17,2027-03-17,Completed
+P01-M4,P01,Go-live,2027-04-02,2027-04-06,2027-04-06,Completed
+P01-M5,P01,Benefits review,2027-04-23,2027-04-29,2027-04-29,Completed
+P02-M1,P02,BRD signed off,2027-01-22,2027-01-22,2027-01-22,Completed
+P02-M2,P02,Checklist live,2027-02-12,2027-02-13,2027-02-13,Completed
+P02-M3,P02,Upload check live,2027-02-26,2027-03-03,2027-03-03,Completed
+P02-M4,P02,Fast-track lane live,2027-03-19,2027-03-25,2027-03-25,Completed
+P02-M5,P02,Go-live,2027-04-09,2027-04-20,2027-04-20,Completed
+P03-M1,P03,NHCX sandbox access,2027-02-26,2027-03-08,2027-03-08,Completed
+P03-M2,P03,Claim API build,2027-04-09,2027-04-22,2027-04-22,Completed
+P03-M3,P03,Insurer UAT,2027-05-21,2027-06-14,2027-06-14,Completed
+P03-M4,P03,Pilot with 10 hospitals,2027-07-02,2027-08-01,,Late
+P03-M5,P03,Go-live,2027-08-13,2027-09-17,,At risk
+P04-M1,P04,NPCI mandate setup,2027-01-29,2027-01-30,2027-01-30,Completed
+P04-M2,P04,AutoPay journey built,2027-02-26,2027-02-25,2027-02-25,Completed
+P04-M3,P04,UAT,2027-03-19,2027-03-15,2027-03-15,Completed
+P04-M4,P04,Go-live,2027-04-16,2027-04-14,2027-04-14,Completed
+P04-M5,P04,Collections review,2027-05-07,2027-05-03,2027-05-03,Completed
+P05-M1,P05,Alert data extract,2027-02-05,2027-02-07,2027-02-07,Completed
+P05-M2,P05,Back-testing,2027-03-12,2027-03-14,2027-03-14,Completed
+P05-M3,P05,Compliance sign-off,2027-04-16,2027-04-17,2027-04-17,Completed
+P05-M4,P05,Thresholds live,2027-05-21,2027-05-26,2027-05-26,Completed
+P06-M1,P06,Data model,2027-02-19,2027-02-19,2027-02-19,Completed
+P06-M2,P06,Dashboard build,2027-03-19,2027-03-20,2027-03-20,Completed
+P06-M3,P06,Branch rollout,2027-04-16,2027-04-17,2027-04-17,Completed
+P07-M1,P07,Requirements signed off,2027-02-19,2027-03-03,2027-03-03,Completed
+P07-M2,P07,Portal build,2027-03-26,2027-04-21,2027-04-21,Completed
+P07-M3,P07,Document verification module,2027-05-07,2027-06-15,2027-06-15,Completed
+P07-M4,P07,UAT,2027-06-11,2027-07-25,,Late
+P07-M5,P07,Go-live,2027-07-23,2027-09-17,,At risk
+P08-M1,P08,Vendor mobilised,2027-02-19,2027-02-25,2027-02-25,Completed
+P08-M2,P08,Data migration design,2027-04-02,2027-04-22,2027-04-22,Completed
+P08-M3,P08,Mock migration 1,2027-05-21,2027-06-16,2027-06-16,Completed
+P08-M4,P08,Mock migration 2,2027-07-09,2027-08-20,,At risk
+P08-M5,P08,SIT complete,2027-08-20,2027-10-07,,At risk
+P08-M6,P08,Cutover rehearsal,2027-10-08,2027-12-04,,At risk

@@ -1,0 +1,9 @@
+project_id,project_name,business_unit,domain,method,sponsor,project_manager,start_date,planned_end,budget_lakh,vendor_led
+P01,Video KYC Capacity Upgrade,Retail Banking,Banking,Agile,Head of Retail Banking,Ananya Rao,2027-01-04,2027-04-23,45,No
+P02,Loan Fast-Track Lane,Retail Lending,Banking,Agile,Head of Retail Lending,Rohit Kulkarni,2027-01-04,2027-04-09,18,Yes
+P03,NHCX Cashless Claims Integration,Health Insurance,Healthcare,Hybrid,Head of Claims,Meera Iyer,2027-01-18,2027-08-13,60,Yes
+P04,UPI AutoPay for EMI Collections,Collections,Banking,Agile,Head of Collections,Vikram Shah,2027-01-11,2027-05-07,30,No
+P05,AML Alert Threshold Tuning,Compliance,Banking,Waterfall,Chief Compliance Officer,Farah Khan,2027-01-04,2027-05-21,25,No
+P06,Branch MIS Automation,Operations,Banking,Agile,Head of Operations,Ananya Rao,2027-01-25,2027-04-16,12,No
+P07,Hospital Network Empanelment Portal,Health Insurance,Healthcare,Waterfall,Head of Provider Network,Sanjay Menon,2027-01-11,2027-07-23,40,Yes
+P08,Core Banking Upgrade (Phase 1),Technology,Banking,Waterfall,Chief Technology Officer,Deepa Nair,2027-01-04,2027-10-08,300,Yes
